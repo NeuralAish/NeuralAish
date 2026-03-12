@@ -5,7 +5,7 @@
 Passionate about exploring Artificial Intelligence and Data Science, and using data to build intelligent solutions for real-world problems.
 </p>
 
-## 🎓 Third-year student in **Artificial Intelligence & Data Science**  
+
 🤖 Interested in **AI, Machine Learning, and Data Analytics**  
 📊 I enjoy working with **data, statistics, and real-world datasets** to find meaningful insights  
 💻 Currently improving my skills in **Python, SQL, and machine learning concepts**  
