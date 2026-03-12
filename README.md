@@ -1,5 +1,6 @@
 
-I'm Aishwarya Kolhe <br>Third-year student in Artificial Intelligence & Data Science.  <br>Interested in AI, Machine Learning, and Data Analytics.<br>I enjoy working with data, statistics, and real-world datasets to find meaningful insights.  <br>Currently improving my skills in Python, SQL, and machine learning concepts.<br>Always curious to learn new technologies and build practical projects.
+#I'm Aishwarya Kolhe 
+##<br>Third-year student in Artificial Intelligence & Data Science.  <br>Interested in AI, Machine Learning, and Data Analytics.<br>I enjoy working with data, statistics, and real-world datasets to find meaningful insights.  <br>Currently improving my skills in Python, SQL, and machine learning concepts.<br>Always curious to learn new technologies and build practical projects.
 
 
 ## 🌐 Socials:
