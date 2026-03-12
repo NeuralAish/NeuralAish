@@ -1,7 +1,13 @@
 
-#I'm Aishwarya Kolhe 
-##<br>Third-year student in Artificial Intelligence & Data Science.  <br>Interested in AI, Machine Learning, and Data Analytics.<br>I enjoy working with data, statistics, and real-world datasets to find meaningful insights.  <br>Currently improving my skills in Python, SQL, and machine learning concepts.<br>Always curious to learn new technologies and build practical projects.
+<h1 align="center">Hi, I'm Aisha! 👋</h1>
 
+<p align="center">
+🎓 Third-year student in <b>Artificial Intelligence & Data Science</b>.<br>
+🤖 Interested in <b>AI, Machine Learning, and Data Analytics</b>.<br>
+📊 I enjoy working with <b>data, statistics, and real-world datasets</b> to find meaningful insights.<br>
+💻 Currently improving my skills in <b>Python, SQL, and machine learning concepts</b>.<br>
+🚀 Always curious to learn new technologies and build practical projects.
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryakolhe1825@gmail.com) 
