@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aishwarya! </h1>
-<h3 align="center">Third Year AI & Data Science Student</h3>
+<h3 align="center">AI & Data Science Student</h3>
 
 <p align="center">
 Passionate about exploring Artificial Intelligence and Data Science, and using data to build intelligent solutions for real-world problems.
