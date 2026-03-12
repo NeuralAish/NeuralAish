@@ -1,13 +1,15 @@
-
-<h1 align="center">Hi, I'm Aishwarya </h1>
+<h1 align="center">I'm Aishwarya </h1>
+<h3 align="center">Third Year AI & Data Science Student</h3>
 
 <p align="center">
-🎓 Third-year student in <b>Artificial Intelligence & Data Science</b>.<br>
-🤖 Interested in <b>AI, Machine Learning, and Data Analytics</b>.<br>
-📊 I enjoy working with <b>data, statistics, and real-world datasets</b> to find meaningful insights.<br>
-💻 Currently improving my skills in <b>Python, SQL, and machine learning concepts</b>.<br>
-🚀 Always curious to learn new technologies and build practical projects.
+Passionate about exploring Artificial Intelligence and Data Science, and using data to build intelligent solutions for real-world problems.
 </p>
+
+🎓 Third-year student in **Artificial Intelligence & Data Science**  
+🤖 Interested in **AI, Machine Learning, and Data Analytics**  
+📊 I enjoy working with **data, statistics, and real-world datasets** to find meaningful insights  
+💻 Currently improving my skills in **Python, SQL, and machine learning concepts**  
+🚀 Always curious to learn new technologies and build practical projects
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryakolhe1825@gmail.com) 
