@@ -1,4 +1,4 @@
-<h1 align="center">I'm Aishwarya </h1>
+<h1 align="center">Hi, I'm Aishwarya! </h1>
 <h3 align="center">Third Year AI & Data Science Student</h3>
 
 <p align="center">
